@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pfoliodev
 - 👀 I’m interested in web and mobile android development
-- 🌱 I’m currently learning Java/Android
+- 🌱 I’m currently learning Data & Python
 - 📫 How to reach me : https://www.linkedin.com/in/paul-henri-leguy-05085a180/
 
 <!---
