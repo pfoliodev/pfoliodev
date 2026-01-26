@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pfoliodev
 - 👀 I’m interested in web and mobile android development
-- 🌱 I’m currently learning Data Science & Python
-- 📫 How to reach me : https://www.linkedin.com/in/paul-henri-leguy-05085a180/
+
 
 <!---
 pfoliodev/pfoliodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
